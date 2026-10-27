@@ -24,14 +24,5 @@ Never opened a PR? This repo exists so you can practice without fear of breaking
 - Add your name to [add-your-name](https://github.com/aixisstudio/add-your-name)
 - Find real `good first issue`s: https://goodfirstissue.dev
 
-
-## ❓ Frequently Asked Questions
-
-**How do I practice making a pull request?**
-
-Fork this repo, edit practice.md and open a PR — a bot merges valid PRs automatically so you can practice safely.
-
-
 ---
-
-Maintained by [aixisstudio](https://github.com/aixisstudio) — author of [Snitch](https://github.com/aixisstudio/Snitch), the open-source application firewall. See also: [all resources](https://aixisstudio.github.io).
+Maintained by [aixisstudio](https://github.com/aixisstudio).
