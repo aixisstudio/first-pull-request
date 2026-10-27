@@ -1,0 +1,36 @@
+# First Pull Request
+
+[English](README.md) | **Français** | [Español](README.es.md) | [中文](README.zh-CN.md) | [日本語](README.ja.md) | [Русский](README.ru.md)
+
+Un bac à sable sûr pour ta toute première pull request
+
+_Le contenu détaillé (listes, liens, descriptions) est en anglais pour rester maintenable — les sections ci-dessous te guident._
+
+## 🥋 A safe dojo for your very first pull request
+
+Never opened a PR? This repo exists so you can practice without fear of breaking anything. The bot merges valid PRs automatically in seconds.
+
+## 🪜 Steps
+
+1. Fork this repo
+2. Edit [`practice.md`](practice.md) — write anything (your name, a quote, a hello in your language)
+3. Commit → open a PR to this repository
+4. Bot merges it if only `practice.md` changed ✅
+
+## 📚 What you just learned
+
+- The **fork-based workflow** — the standard way open source works
+- How to open a PR, describe a change, and get it merged
+- Where PRs appear in your profile (and yes, it counts for **Pull Shark**)
+
+## ➡️ Next steps
+
+- Add your name to [add-your-name](https://github.com/aixisstudio/add-your-name)
+- Find real `good first issue`s: https://goodfirstissue.dev
+
+---
+## Contribuer
+
+Les pull requests sont les bienvenues : ouvre une PR, elle sera relue et fusionnée. Maintenu par [aixisstudio](https://github.com/aixisstudio), auteur de [Snitch](https://github.com/aixisstudio/Snitch), pare-feu applicatif open source.
+
+## Licence: MIT
