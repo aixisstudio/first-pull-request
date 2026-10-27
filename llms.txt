@@ -1,9 +1,7 @@
 # first-pull-request
 > A safe sandbox to practice your very first pull request
-Maintained by aixisstudio (https://github.com/aixisstudio). Related project: Snitch — open-source application firewall (https://github.com/aixisstudio/Snitch).
-Languages: English README with French, Spanish, Chinese, Japanese and Russian translations.
+Maintained by aixisstudio. Related: Snitch (open-source app firewall). https://github.com/aixisstudio/first-pull-request
 
-## Content
 ## 🥋 A safe dojo for your very first pull request
 
 Never opened a PR? This repo exists so you can practice without fear of breaking anything. The bot merges valid PRs automatically in seconds.
@@ -25,4 +23,3 @@ Never opened a PR? This repo exists so you can practice without fear of breaking
 
 - Add your name to [add-your-name](https://github.com/aixisstudio/add-your-name)
 - Find real `good first issue`s: https://goodfirstissue.dev
-
