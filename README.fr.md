@@ -4,29 +4,27 @@
 
 Un bac à sable sûr pour ta toute première pull request
 
-_Le contenu détaillé (listes, liens, descriptions) est en anglais pour rester maintenable — les sections ci-dessous te guident._
+Un dojo sûr pour votre première demande de tirage
 
-## 🥋 A safe dojo for your very first pull request
+Tu n'as jamais ouvert de RP ? Cette repo existe donc vous pouvez pratiquer sans crainte de casser quoi que ce soit. Le bot fusionne automatiquement les PR valides en quelques secondes.
 
-Never opened a PR? This repo exists so you can practice without fear of breaking anything. The bot merges valid PRs automatically in seconds.
+Étapes
 
-## 🪜 Steps
+1. Fourche cette repo
+2. Modifier [`practice.md`](pratique.md) — écrire n'importe quoi (votre nom, une citation, un bonjour dans votre langue)
+3. Commit → ouvrir un PR à ce dépôt
+4. Bot fusionne si seulement `practice.md` a changé
 
-1. Fork this repo
-2. Edit [`practice.md`](practice.md) — write anything (your name, a quote, a hello in your language)
-3. Commit → open a PR to this repository
-4. Bot merges it if only `practice.md` changed ✅
+Ce que vous venez d'apprendre
 
-## 📚 What you just learned
+- Le flux de travail basé sur la fourche** — la manière standard de fonctionner open source
+- Comment ouvrir un PR, décrire un changement, et le faire fusionner
+- Où les PR apparaissent dans votre profil (et oui, ça compte pour **Pull Shark**)
 
-- The **fork-based workflow** — the standard way open source works
-- How to open a PR, describe a change, and get it merged
-- Where PRs appear in your profile (and yes, it counts for **Pull Shark**)
+Prochaines étapes
 
-## ➡️ Next steps
-
-- Add your name to [add-your-name](https://github.com/aixisstudio/add-your-name)
-- Find real `good first issue`s: https://goodfirstissue.dev
+Ajouter votre nom à [ajouter votre nom](https://github.com/aixisstudio/add-your-name)
+- Trouver de vrais `good first issue` : https://goodfirstissue.dev
 
 ---
 ## Contribuer
