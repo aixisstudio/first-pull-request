@@ -4,29 +4,27 @@
 
 练习你第一个 Pull Request 的安全沙盒
 
-_详细内容（列表、链接、描述）以英文维护 — 以下章节为你指引。_
+□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□
 
-## 🥋 A safe dojo for your very first pull request
+从来没有打开公关? 这种回扣是存在的 这样你就可以不用害怕什么破碎而练习了 机器人以秒数自动合并有效的PR.
 
-Never opened a PR? This repo exists so you can practice without fear of breaking anything. The bot merges valid PRs automatically in seconds.
+□□□□□□□步骤
 
-## 🪜 Steps
+1. 叉子这种还本付息
+2. 编辑 [`practice.md`] (practice.md)——写任何东西(你的名字,引文,用你的语言打招呼)
+3. 向该存储库提交    打开 PR
+4. 如果只更改了 `practice.md` , Bot 将合并
 
-1. Fork this repo
-2. Edit [`practice.md`](practice.md) — write anything (your name, a quote, a hello in your language)
-3. Commit → open a PR to this repository
-4. Bot merges it if only `practice.md` changed ✅
+∮你刚刚学到的∮
 
-## 📚 What you just learned
+- 以叉为基础的工作流程**——开源工作的标准方式
+- 如何打开公关,描述变化,并进行合并
+- 如果你的档案里有公关信息(是的,它算作**Pull Shark**)
 
-- The **fork-based workflow** — the standard way open source works
-- How to open a PR, describe a change, and get it merged
-- Where PRs appear in your profile (and yes, it counts for **Pull Shark**)
+□ 下一步
 
-## ➡️ Next steps
-
-- Add your name to [add-your-name](https://github.com/aixisstudio/add-your-name)
-- Find real `good first issue`s: https://goodfirstissue.dev
+- 将您的名字添加到 [您的名字] (https://github.com/aixisstudio/add-your-name)
+- 找到真实的 `good first issue`: URPH0X
 
 ---
 ## 贡献
