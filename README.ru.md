@@ -4,29 +4,27 @@
 
 Безопасная песочница для твоего первого pull request
 
-_Подробное содержимое (списки, ссылки, описания) ведётся на английском — разделы ниже помогут сориентироваться._
+##   Безопасное додзё для вашего первого запроса
 
-## 🥋 A safe dojo for your very first pull request
+Никогда не открывал пиар? Это репо существует, так что вы можете практиковать, не боясь ничего нарушить. Бот автоматически объединяет действительные PR в считанные секунды.
 
-Never opened a PR? This repo exists so you can practice without fear of breaking anything. The bot merges valid PRs automatically in seconds.
+##   Шаги
 
-## 🪜 Steps
+1.Вилка этого репо
+2. Edit [`practice.md`] (practice.md) — напишите что угодно (ваше имя, цитата, привет на вашем языке)
+3.Commit → открыть PR для этого хранилища
+4.Бот сливается, если изменился только `practice.md`
 
-1. Fork this repo
-2. Edit [`practice.md`](practice.md) — write anything (your name, a quote, a hello in your language)
-3. Commit → open a PR to this repository
-4. Bot merges it if only `practice.md` changed ✅
+###То, что вы узнали
 
-## 📚 What you just learned
+**Вилочный рабочий процесс ** — стандартный способ работы с открытым исходным кодом
+Как открыть PR, описать изменение и объединить его
+- Где PR появляются в вашем профиле (и да, это имеет значение для **Pull Shark**)
 
-- The **fork-based workflow** — the standard way open source works
-- How to open a PR, describe a change, and get it merged
-- Where PRs appear in your profile (and yes, it counts for **Pull Shark**)
+###Следующие шаги
 
-## ➡️ Next steps
-
-- Add your name to [add-your-name](https://github.com/aixisstudio/add-your-name)
-- Find real `good first issue`s: https://goodfirstissue.dev
+Добавьте свое имя (https://github.com/aixisstudio/add-your-name)
+Оригинальное название: `good first issue`s: https://goodfirstissue.dev
 
 ---
 ## Участие
