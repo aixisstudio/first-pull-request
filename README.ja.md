@@ -4,29 +4,27 @@
 
 初めてのプルリクエストを練習する安全なサンドボックス
 
-_詳細なコンテンツ（リスト・リンク・説明）は保守のため英語です。以下のセクションがガイドになります。_
+## 🥋 あなたの最初のプルリクエストのための安全な道場
 
-## 🥋 A safe dojo for your very first pull request
+決してPRを開いたか。 このレポが存在するので、何かを壊すことを恐れずに練習することができます。 ボットは有効なPRを秒単位で自動的に結合します。
 
-Never opened a PR? This repo exists so you can practice without fear of breaking anything. The bot merges valid PRs automatically in seconds.
+## 🪜ステップ
 
-## 🪜 Steps
+1. フォークこのレポ
+2. [`practice.md`](practice.md)を編集 — 何も書きます (あなたの名前、引用符、あなたの言語のhello)
+3. コミット → このリポジトリにPRを開く
+4。 ボットは`practice.md`だけが変更された場合にそれを結合します ✅
 
-1. Fork this repo
-2. Edit [`practice.md`](practice.md) — write anything (your name, a quote, a hello in your language)
-3. Commit → open a PR to this repository
-4. Bot merges it if only `practice.md` changed ✅
+## 勉強する
 
-## 📚 What you just learned
+- **フォークベースのワークフロー** — 標準的な方法のオープンソースの仕組み
+- PRを開く方法、変更を記述し、マージする
+- あなたのプロフィール(そしてはい、それは**Pullシャークのためにカウント)にPRが現れます
 
-- The **fork-based workflow** — the standard way open source works
-- How to open a PR, describe a change, and get it merged
-- Where PRs appear in your profile (and yes, it counts for **Pull Shark**)
+## ➡️ 次のステップ
 
-## ➡️ Next steps
-
-- Add your name to [add-your-name](https://github.com/aixisstudio/add-your-name)
-- Find real `good first issue`s: https://goodfirstissue.dev
+- [Add-your-name](https://github.com/aixisstudio/add-your-name)に名前を追加
+- 実際の`good first issue`を見つける:https://goodfirstissue.dev
 
 ---
 ## 貢献
