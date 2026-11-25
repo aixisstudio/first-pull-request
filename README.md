@@ -27,7 +27,7 @@ Never opened a PR? This repo exists so you can practice without fear of breaking
 - Find real `good first issue`s: https://goodfirstissue.dev
 
 ---
-Maintained by [aixisstudio](https://github.com/aixisstudio) — author of [Snitch](https://github.com/aixisstudio/Snitch), the open-source application firewall.
+Maintained by [aixisstudio](https://github.com/aixisstudio) — author of [Wiretap](https://github.com/aixisstudio/Wiretap), the open-source application firewall.
 
 ## License
 
